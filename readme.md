@@ -620,7 +620,7 @@ Change the `?username=` value to your [WakaTime](https://wakatime.com) username.
 
 *   Compact layout
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunohdmacedo\&layout=compact)
 
 ***
 
@@ -694,7 +694,7 @@ Choose from any of the [default themes](#themes)
 
 *   WakaTime card
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/?username=brunohdmacedo)
 
 ***
 
